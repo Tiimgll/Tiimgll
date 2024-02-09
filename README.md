@@ -1,5 +1,7 @@
 ### Hi there, I'm Timofey👋
 
+I'm a DevOps and SysOps engineer with a passion for exploring and mastering new technologies in the IT industry. 
+With three years of experience, I have developed expertise in various areas including networking technologies, monitoring, operating systems, telecommunications, and automation tools such as Git and Python.
 <!--
 **Tiimgll/Tiimgll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
